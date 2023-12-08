@@ -53,3 +53,20 @@ main section p {
 main section {
   margin-bottom: 80px;
 }
+
+#img01 {
+  background-image: url(imagens/background001.jpg);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 400px;
+  padding: 40px;
+}
+
+#img01 p {
+  background-color: rgba(0, 0, 0, 0.322);
+  padding: 10px;
+  color: var(--branco);
+  width: 350px;
+}
