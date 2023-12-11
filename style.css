@@ -104,3 +104,23 @@ main section {
   font-size: 3.5vw;
   padding: 10px;
 }
+
+footer {
+  background-color: var(--preto);
+  padding: 5px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 1.4vw;
+  font-family: sans-serif;
+  color: var(--branco);
+}
+
+footer a {
+  color: var(--branco);
+  font-weight: bold;
+  font-size: 1.6vw;
+  text-decoration: none;
+  transition-duration: 0.3s;
+}
